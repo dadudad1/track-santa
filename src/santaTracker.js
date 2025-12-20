@@ -187,7 +187,7 @@ const SANTA_ROUTE = [
 ];
 
 // Journey constants
-const JOURNEY_START_DAY = 17; // Change to 24 for production (Dec 24)
+const JOURNEY_START_DAY = 24; // Dec 24 - Christmas Eve
 const JOURNEY_START_HOUR_UTC = 12; // Dec 24, 12:00 UTC (midnight at UTC+12)
 const JOURNEY_DURATION_HOURS = 24;
 
