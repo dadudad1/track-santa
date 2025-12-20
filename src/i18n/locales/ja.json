@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "サンタをライブ追跡 - リアルタイムトラッカー 2025",
+    "description": "クリスマスイブにサンタクロースをライブで追跡！サンタが今どこにいるか、いつあなたの近くに来るかを見てください。"
+  },
+  "header": {
+    "title": "サンタを追跡",
+    "subtitle": "サンタの世界一周の魔法の旅を追いかけよう"
+  },
+  "countdown": {
+    "title": "サンタ出発まで",
+    "days": "日",
+    "hours": "時間",
+    "minutes": "分",
+    "seconds": "秒",
+    "message": "🎄 サンタは北極でそりを準備中！ 🎄"
+  },
+  "map": {
+    "delivered": "配達完了！",
+    "comingSoon": "まもなく...",
+    "yourLocation": "あなたの位置",
+    "santaOnWay": "サンタが向かっています！",
+    "santaHere": "サンタがここにいます！",
+    "presentsDelivered": "件のプレゼントを配達",
+    "legend": {
+      "visited": "訪問済み",
+      "upcoming": "次の目的地",
+      "santa": "サンタ",
+      "you": "あなた"
+    }
+  },
+  "status": {
+    "liveTracking": "ライブ追跡",
+    "title": "🎅 サンタの現在の状況",
+    "currentLocation": "現在地",
+    "presentsDelivered": "配達済みプレゼント",
+    "citiesVisited": "訪問都市",
+    "nextStop": "次の目的地",
+    "journeyProgress": "旅の進捗",
+    "northPole": "北極",
+    "latitude": "緯度",
+    "longitude": "経度"
+  },
+  "arrival": {
+    "title": "📍 サンタの到着時刻",
+    "titleNearYou": "📍 あなたの近くへのサンタの到着",
+    "locationError": "位置情報を取得できませんでした",
+    "tryAgain": "🔄 再試行",
+    "findingLocation": "位置情報を検索中...",
+    "closestStop": "最寄りの立ち寄り先",
+    "kmAway": "km 離れた場所",
+    "santaVisited": "✓ サンタは訪問済み！",
+    "alreadyDelivered": "サンタはすでにあなたの近くでプレゼントを配達しました！ 🎁",
+    "santaOnWay": "🛷 サンタが向かっています！",
+    "arrivingIn": "およそ到着まで",
+    "hr": "時間",
+    "min": "分",
+    "sec": "秒",
+    "scheduledArrival": "🗓️ 到着予定",
+    "thatsIn": "あと"
+  },
+  "complete": {
+    "title": "🎉 ミッション完了！ 🎉",
+    "message": "サンタは世界中のすべての子供たちにプレゼントを届け、今は北極で休んでいます！",
+    "presentsDelivered": "配達済みプレゼント",
+    "citiesVisited": "訪問都市",
+    "footer": "🎄 メリークリスマス！また来年！ 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 デモモードを終了",
+    "tryDemo": "🎬 デモモードを試す",
+    "journeyProgress": "旅の進捗",
+    "hint": "スライダーをドラッグしてサンタの世界旅行を見よう！"
+  },
+  "loading": "サンタの位置を読み込み中...",
+  "footer": {
+    "madeWith": "🎄 クリスマスのために ❤️ を込めて作成 🎄",
+    "note": "サンタは12月24日の真夜中（UTC+12）に出発し、24時間旅を続けます"
+  },
+  "errors": {
+    "permissionDenied": "位置情報の許可が拒否されました。位置情報へのアクセスを有効にしてください。",
+    "positionUnavailable": "位置情報が利用できません。",
+    "timeout": "位置情報のリクエストがタイムアウトしました。",
+    "unknown": "不明なエラーが発生しました。"
+  }
+}

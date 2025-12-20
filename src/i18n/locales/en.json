@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Track Santa Live - Real-Time Santa Claus Tracker 2025",
+    "description": "Track Santa Claus live on Christmas Eve! Follow Santa's magical journey around the world in real-time. See where Santa is now and when he'll arrive near you."
+  },
+  "header": {
+    "title": "Track Santa",
+    "subtitle": "Follow Santa's magical journey around the world"
+  },
+  "countdown": {
+    "title": "Santa Departs In",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "message": "🎄 Santa is preparing his sleigh at the North Pole! 🎄"
+  },
+  "map": {
+    "delivered": "Delivered!",
+    "comingSoon": "Coming soon...",
+    "yourLocation": "Your Location",
+    "santaOnWay": "Santa is on his way!",
+    "santaHere": "Santa is here!",
+    "presentsDelivered": "presents delivered",
+    "legend": {
+      "visited": "Visited",
+      "upcoming": "Upcoming",
+      "santa": "Santa",
+      "you": "You"
+    }
+  },
+  "status": {
+    "liveTracking": "LIVE TRACKING",
+    "title": "🎅 Santa's Current Status",
+    "currentLocation": "Current Location",
+    "presentsDelivered": "Presents Delivered",
+    "citiesVisited": "Cities Visited",
+    "nextStop": "Next Stop",
+    "journeyProgress": "Journey Progress",
+    "northPole": "North Pole",
+    "latitude": "Latitude",
+    "longitude": "Longitude"
+  },
+  "arrival": {
+    "title": "📍 Santa's Arrival Time",
+    "titleNearYou": "📍 Santa's Arrival Near You",
+    "locationError": "Could not get your location",
+    "tryAgain": "🔄 Try Again",
+    "findingLocation": "Finding your location...",
+    "closestStop": "Closest Stop to You",
+    "kmAway": "km away",
+    "santaVisited": "✓ Santa has visited!",
+    "alreadyDelivered": "Santa already delivered presents near you! 🎁",
+    "santaOnWay": "🛷 Santa is on his way!",
+    "arrivingIn": "Arriving in approximately",
+    "hr": "hr",
+    "min": "min",
+    "sec": "sec",
+    "scheduledArrival": "🗓️ Scheduled Arrival",
+    "thatsIn": "That's in"
+  },
+  "complete": {
+    "title": "🎉 Mission Complete! 🎉",
+    "message": "Santa has successfully delivered presents to all the children around the world and is now resting at the North Pole!",
+    "presentsDelivered": "Presents Delivered",
+    "citiesVisited": "Cities Visited",
+    "footer": "🎄 Merry Christmas! See you next year! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Exit Demo Mode",
+    "tryDemo": "🎬 Try Demo Mode",
+    "journeyProgress": "Journey Progress",
+    "hint": "Drag the slider to see Santa travel around the world!"
+  },
+  "loading": "Loading Santa's location...",
+  "footer": {
+    "madeWith": "🎄 Made with ❤️ for Christmas 🎄",
+    "note": "Santa departs at midnight (UTC+12) on December 24th and travels for 24 hours"
+  },
+  "errors": {
+    "permissionDenied": "Location permission denied. Please enable location access.",
+    "positionUnavailable": "Location information is unavailable.",
+    "timeout": "Location request timed out.",
+    "unknown": "An unknown error occurred."
+  }
+}

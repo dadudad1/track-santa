@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Rastrear Papai Noel ao Vivo - Tracker em Tempo Real 2025",
+    "description": "Acompanhe o Papai Noel ao vivo na véspera de Natal! Veja onde o Papai Noel está agora e quando ele chegará perto de você."
+  },
+  "header": {
+    "title": "Rastrear o Pai Natal",
+    "subtitle": "Acompanha a viagem mágica do Pai Natal pelo mundo"
+  },
+  "countdown": {
+    "title": "O Pai Natal Parte Em",
+    "days": "Dias",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "message": "🎄 O Pai Natal está a preparar o trenó no Polo Norte! 🎄"
+  },
+  "map": {
+    "delivered": "Entregue!",
+    "comingSoon": "Em breve...",
+    "yourLocation": "A Tua Localização",
+    "santaOnWay": "O Pai Natal está a caminho!",
+    "santaHere": "O Pai Natal está aqui!",
+    "presentsDelivered": "presentes entregues",
+    "legend": {
+      "visited": "Visitado",
+      "upcoming": "Próximo",
+      "santa": "Pai Natal",
+      "you": "Tu"
+    }
+  },
+  "status": {
+    "liveTracking": "RASTREAMENTO AO VIVO",
+    "title": "🎅 Estado Atual do Pai Natal",
+    "currentLocation": "Localização Atual",
+    "presentsDelivered": "Presentes Entregues",
+    "citiesVisited": "Cidades Visitadas",
+    "nextStop": "Próxima Paragem",
+    "journeyProgress": "Progresso da Viagem",
+    "northPole": "Polo Norte",
+    "latitude": "Latitude",
+    "longitude": "Longitude"
+  },
+  "arrival": {
+    "title": "📍 Hora de Chegada do Pai Natal",
+    "titleNearYou": "📍 Chegada do Pai Natal Perto de Ti",
+    "locationError": "Não foi possível obter a tua localização",
+    "tryAgain": "🔄 Tentar Novamente",
+    "findingLocation": "A procurar a tua localização...",
+    "closestStop": "Paragem Mais Próxima",
+    "kmAway": "km de distância",
+    "santaVisited": "✓ O Pai Natal já passou!",
+    "alreadyDelivered": "O Pai Natal já entregou os presentes perto de ti! 🎁",
+    "santaOnWay": "🛷 O Pai Natal está a caminho!",
+    "arrivingIn": "A chegar em aproximadamente",
+    "hr": "h",
+    "min": "min",
+    "sec": "seg",
+    "scheduledArrival": "🗓️ Chegada Programada",
+    "thatsIn": "Isso é em"
+  },
+  "complete": {
+    "title": "🎉 Missão Cumprida! 🎉",
+    "message": "O Pai Natal entregou com sucesso os presentes a todas as crianças do mundo e agora está a descansar no Polo Norte!",
+    "presentsDelivered": "Presentes Entregues",
+    "citiesVisited": "Cidades Visitadas",
+    "footer": "🎄 Feliz Natal! Até ao próximo ano! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Sair do Modo Demo",
+    "tryDemo": "🎬 Experimentar Modo Demo",
+    "journeyProgress": "Progresso da Viagem",
+    "hint": "Arrasta o controle deslizante para ver o Pai Natal a viajar pelo mundo!"
+  },
+  "loading": "A carregar a localização do Pai Natal...",
+  "footer": {
+    "madeWith": "🎄 Feito com ❤️ para o Natal 🎄",
+    "note": "O Pai Natal parte à meia-noite (UTC+12) no dia 24 de dezembro e viaja durante 24 horas"
+  },
+  "errors": {
+    "permissionDenied": "Permissão de localização negada. Por favor, ativa o acesso à localização.",
+    "positionUnavailable": "As informações de localização não estão disponíveis.",
+    "timeout": "O pedido de localização expirou.",
+    "unknown": "Ocorreu um erro desconhecido."
+  }
+}

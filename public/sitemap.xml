@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Default/English -->
+  <url>
+    <loc>https://track-santa.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://track-santa.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://track-santa.com/?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://track-santa.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://track-santa.com/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://track-santa.com/?lang=hu"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://track-santa.com/?lang=bg"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://track-santa.com/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://track-santa.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://track-santa.com/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://track-santa.com/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://track-santa.com/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://track-santa.com/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://track-santa.com/"/>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+</urlset>
+

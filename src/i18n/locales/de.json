@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Weihnachtsmann Live Verfolgen - Echtzeit-Tracker 2025",
+    "description": "Verfolgen Sie den Weihnachtsmann live an Heiligabend! Sehen Sie, wo der Weihnachtsmann jetzt ist und wann er bei Ihnen ankommt."
+  },
+  "header": {
+    "title": "Verfolge den Weihnachtsmann",
+    "subtitle": "Verfolge die magische Reise des Weihnachtsmanns um die Welt"
+  },
+  "countdown": {
+    "title": "Der Weihnachtsmann Startet In",
+    "days": "Tage",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden",
+    "message": "🎄 Der Weihnachtsmann bereitet seinen Schlitten am Nordpol vor! 🎄"
+  },
+  "map": {
+    "delivered": "Geliefert!",
+    "comingSoon": "Demnächst...",
+    "yourLocation": "Dein Standort",
+    "santaOnWay": "Der Weihnachtsmann ist unterwegs!",
+    "santaHere": "Der Weihnachtsmann ist hier!",
+    "presentsDelivered": "Geschenke geliefert",
+    "legend": {
+      "visited": "Besucht",
+      "upcoming": "Kommend",
+      "santa": "Weihnachtsmann",
+      "you": "Du"
+    }
+  },
+  "status": {
+    "liveTracking": "LIVE-VERFOLGUNG",
+    "title": "🎅 Aktueller Status des Weihnachtsmanns",
+    "currentLocation": "Aktueller Standort",
+    "presentsDelivered": "Gelieferte Geschenke",
+    "citiesVisited": "Besuchte Städte",
+    "nextStop": "Nächster Halt",
+    "journeyProgress": "Reisefortschritt",
+    "northPole": "Nordpol",
+    "latitude": "Breitengrad",
+    "longitude": "Längengrad"
+  },
+  "arrival": {
+    "title": "📍 Ankunftszeit des Weihnachtsmanns",
+    "titleNearYou": "📍 Ankunft des Weihnachtsmanns in Deiner Nähe",
+    "locationError": "Dein Standort konnte nicht ermittelt werden",
+    "tryAgain": "🔄 Erneut Versuchen",
+    "findingLocation": "Standort wird gesucht...",
+    "closestStop": "Nächstgelegener Halt",
+    "kmAway": "km entfernt",
+    "santaVisited": "✓ Der Weihnachtsmann war schon da!",
+    "alreadyDelivered": "Der Weihnachtsmann hat bereits Geschenke in deiner Nähe geliefert! 🎁",
+    "santaOnWay": "🛷 Der Weihnachtsmann ist unterwegs!",
+    "arrivingIn": "Ankunft in ungefähr",
+    "hr": "Std",
+    "min": "Min",
+    "sec": "Sek",
+    "scheduledArrival": "🗓️ Geplante Ankunft",
+    "thatsIn": "Das ist in"
+  },
+  "complete": {
+    "title": "🎉 Mission Erfüllt! 🎉",
+    "message": "Der Weihnachtsmann hat erfolgreich Geschenke an alle Kinder auf der Welt geliefert und ruht sich jetzt am Nordpol aus!",
+    "presentsDelivered": "Gelieferte Geschenke",
+    "citiesVisited": "Besuchte Städte",
+    "footer": "🎄 Frohe Weihnachten! Bis nächstes Jahr! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Demo-Modus Beenden",
+    "tryDemo": "🎬 Demo-Modus Ausprobieren",
+    "journeyProgress": "Reisefortschritt",
+    "hint": "Ziehe den Schieberegler, um den Weihnachtsmann auf seiner Weltreise zu sehen!"
+  },
+  "loading": "Standort des Weihnachtsmanns wird geladen...",
+  "footer": {
+    "madeWith": "🎄 Mit ❤️ für Weihnachten gemacht 🎄",
+    "note": "Der Weihnachtsmann startet um Mitternacht (UTC+12) am 24. Dezember und reist 24 Stunden"
+  },
+  "errors": {
+    "permissionDenied": "Standortberechtigung verweigert. Bitte aktiviere den Standortzugriff.",
+    "positionUnavailable": "Standortinformationen sind nicht verfügbar.",
+    "timeout": "Die Standortanfrage ist abgelaufen.",
+    "unknown": "Ein unbekannter Fehler ist aufgetreten."
+  }
+}

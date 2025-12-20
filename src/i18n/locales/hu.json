@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Kövesd a Mikulást Élőben - Valós Idejű Követő 2025",
+    "description": "Kövesd a Mikulást élőben Szenteste! Lásd, hol van most a Mikulás és mikor érkezik hozzád."
+  },
+  "header": {
+    "title": "Kövesd a Mikulást",
+    "subtitle": "Kövesd a Mikulás varázslatos útját a világ körül"
+  },
+  "countdown": {
+    "title": "A Mikulás Indul",
+    "days": "Nap",
+    "hours": "Óra",
+    "minutes": "Perc",
+    "seconds": "Másodperc",
+    "message": "🎄 A Mikulás készíti a szánját az Északi-sarkon! 🎄"
+  },
+  "map": {
+    "delivered": "Kézbesítve!",
+    "comingSoon": "Hamarosan...",
+    "yourLocation": "A Te Helyzeted",
+    "santaOnWay": "A Mikulás úton van!",
+    "santaHere": "A Mikulás itt van!",
+    "presentsDelivered": "ajándék kézbesítve",
+    "legend": {
+      "visited": "Meglátogatva",
+      "upcoming": "Következő",
+      "santa": "Mikulás",
+      "you": "Te"
+    }
+  },
+  "status": {
+    "liveTracking": "ÉLŐ KÖVETÉS",
+    "title": "🎅 A Mikulás Jelenlegi Helyzete",
+    "currentLocation": "Jelenlegi Helyzet",
+    "presentsDelivered": "Kézbesített Ajándékok",
+    "citiesVisited": "Meglátogatott Városok",
+    "nextStop": "Következő Megálló",
+    "journeyProgress": "Út Előrehaladása",
+    "northPole": "Északi-sark",
+    "latitude": "Szélesség",
+    "longitude": "Hosszúság"
+  },
+  "arrival": {
+    "title": "📍 A Mikulás Érkezési Ideje",
+    "titleNearYou": "📍 A Mikulás Érkezése Hozzád",
+    "locationError": "Nem sikerült meghatározni a helyzetedet",
+    "tryAgain": "🔄 Próbáld Újra",
+    "findingLocation": "Helyzeted keresése...",
+    "closestStop": "Legközelebbi Megálló",
+    "kmAway": "km távolságra",
+    "santaVisited": "✓ A Mikulás már járt itt!",
+    "alreadyDelivered": "A Mikulás már kézbesítette az ajándékokat a közeledben! 🎁",
+    "santaOnWay": "🛷 A Mikulás úton van!",
+    "arrivingIn": "Érkezik körülbelül",
+    "hr": "ó",
+    "min": "perc",
+    "sec": "mp",
+    "scheduledArrival": "🗓️ Tervezett Érkezés",
+    "thatsIn": "Ez"
+  },
+  "complete": {
+    "title": "🎉 Küldetés Teljesítve! 🎉",
+    "message": "A Mikulás sikeresen kézbesítette az ajándékokat a világ összes gyermekének és most pihen az Északi-sarkon!",
+    "presentsDelivered": "Kézbesített Ajándékok",
+    "citiesVisited": "Meglátogatott Városok",
+    "footer": "🎄 Boldog Karácsonyt! Jövőre Találkozunk! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Kilépés a Demo Módból",
+    "tryDemo": "🎬 Demo Mód Kipróbálása",
+    "journeyProgress": "Út Előrehaladása",
+    "hint": "Húzd a csúszkát, hogy lásd a Mikulást utazni a világ körül!"
+  },
+  "loading": "A Mikulás helyzetének betöltése...",
+  "footer": {
+    "madeWith": "🎄 Szeretettel készítve Karácsonyra 🎄",
+    "note": "A Mikulás éjfélkor indul (UTC+12) december 24-én és 24 órát utazik"
+  },
+  "errors": {
+    "permissionDenied": "Helymeghatározási engedély megtagadva. Kérjük, engedélyezd a hozzáférést.",
+    "positionUnavailable": "A helyadatok nem elérhetőek.",
+    "timeout": "A helymeghatározási kérés lejárt.",
+    "unknown": "Ismeretlen hiba történt."
+  }
+}

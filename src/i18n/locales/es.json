@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Rastrea a Papá Noel en Vivo - Tracker en Tiempo Real 2025",
+    "description": "¡Sigue a Papá Noel en vivo en Nochebuena! Mira dónde está Papá Noel ahora y cuándo llegará cerca de ti."
+  },
+  "header": {
+    "title": "Rastrea a Papá Noel",
+    "subtitle": "Sigue el viaje mágico de Papá Noel alrededor del mundo"
+  },
+  "countdown": {
+    "title": "Papá Noel Sale En",
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "message": "🎄 ¡Papá Noel está preparando su trineo en el Polo Norte! 🎄"
+  },
+  "map": {
+    "delivered": "¡Entregado!",
+    "comingSoon": "Próximamente...",
+    "yourLocation": "Tu Ubicación",
+    "santaOnWay": "¡Papá Noel viene en camino!",
+    "santaHere": "¡Papá Noel está aquí!",
+    "presentsDelivered": "regalos entregados",
+    "legend": {
+      "visited": "Visitado",
+      "upcoming": "Próximo",
+      "santa": "Papá Noel",
+      "you": "Tú"
+    }
+  },
+  "status": {
+    "liveTracking": "SEGUIMIENTO EN VIVO",
+    "title": "🎅 Estado Actual de Papá Noel",
+    "currentLocation": "Ubicación Actual",
+    "presentsDelivered": "Regalos Entregados",
+    "citiesVisited": "Ciudades Visitadas",
+    "nextStop": "Próxima Parada",
+    "journeyProgress": "Progreso del Viaje",
+    "northPole": "Polo Norte",
+    "latitude": "Latitud",
+    "longitude": "Longitud"
+  },
+  "arrival": {
+    "title": "📍 Hora de Llegada de Papá Noel",
+    "titleNearYou": "📍 Llegada de Papá Noel Cerca de Ti",
+    "locationError": "No se pudo obtener tu ubicación",
+    "tryAgain": "🔄 Intentar de Nuevo",
+    "findingLocation": "Buscando tu ubicación...",
+    "closestStop": "Parada Más Cercana",
+    "kmAway": "km de distancia",
+    "santaVisited": "✓ ¡Papá Noel ya pasó!",
+    "alreadyDelivered": "¡Papá Noel ya entregó los regalos cerca de ti! 🎁",
+    "santaOnWay": "🛷 ¡Papá Noel viene en camino!",
+    "arrivingIn": "Llegando en aproximadamente",
+    "hr": "h",
+    "min": "min",
+    "sec": "seg",
+    "scheduledArrival": "🗓️ Llegada Programada",
+    "thatsIn": "Eso es en"
+  },
+  "complete": {
+    "title": "🎉 ¡Misión Cumplida! 🎉",
+    "message": "¡Papá Noel ha entregado con éxito los regalos a todos los niños del mundo y ahora está descansando en el Polo Norte!",
+    "presentsDelivered": "Regalos Entregados",
+    "citiesVisited": "Ciudades Visitadas",
+    "footer": "🎄 ¡Feliz Navidad! ¡Hasta el próximo año! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Salir del Modo Demo",
+    "tryDemo": "🎬 Probar Modo Demo",
+    "journeyProgress": "Progreso del Viaje",
+    "hint": "¡Arrastra el control deslizante para ver a Papá Noel viajar por el mundo!"
+  },
+  "loading": "Cargando la ubicación de Papá Noel...",
+  "footer": {
+    "madeWith": "🎄 Hecho con ❤️ para Navidad 🎄",
+    "note": "Papá Noel sale a medianoche (UTC+12) el 24 de diciembre y viaja durante 24 horas"
+  },
+  "errors": {
+    "permissionDenied": "Permiso de ubicación denegado. Por favor, habilita el acceso a la ubicación.",
+    "positionUnavailable": "La información de ubicación no está disponible.",
+    "timeout": "La solicitud de ubicación ha caducado.",
+    "unknown": "Ha ocurrido un error desconocido."
+  }
+}

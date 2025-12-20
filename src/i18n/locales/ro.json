@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Urmărește Moș Crăciun Live - Tracker în Timp Real 2025",
+    "description": "Urmărește-l pe Moș Crăciun în timp real de Ajunul Crăciunului! Vezi unde este Moș Crăciun acum și când va ajunge la tine."
+  },
+  "header": {
+    "title": "Urmărește-l pe Moș Crăciun",
+    "subtitle": "Urmărește călătoria magică a lui Moș Crăciun în jurul lumii"
+  },
+  "countdown": {
+    "title": "Moș Crăciun Pleacă În",
+    "days": "Zile",
+    "hours": "Ore",
+    "minutes": "Minute",
+    "seconds": "Secunde",
+    "message": "🎄 Moș Crăciun își pregătește sania la Polul Nord! 🎄"
+  },
+  "map": {
+    "delivered": "Livrat!",
+    "comingSoon": "În curând...",
+    "yourLocation": "Locația Ta",
+    "santaOnWay": "Moș Crăciun este pe drum!",
+    "santaHere": "Moș Crăciun este aici!",
+    "presentsDelivered": "cadouri livrate",
+    "legend": {
+      "visited": "Vizitat",
+      "upcoming": "Urmează",
+      "santa": "Moș Crăciun",
+      "you": "Tu"
+    }
+  },
+  "status": {
+    "liveTracking": "URMĂRIRE ÎN DIRECT",
+    "title": "🎅 Statusul Actual al lui Moș Crăciun",
+    "currentLocation": "Locația Curentă",
+    "presentsDelivered": "Cadouri Livrate",
+    "citiesVisited": "Orașe Vizitate",
+    "nextStop": "Următoarea Oprire",
+    "journeyProgress": "Progresul Călătoriei",
+    "northPole": "Polul Nord",
+    "latitude": "Latitudine",
+    "longitude": "Longitudine"
+  },
+  "arrival": {
+    "title": "📍 Ora Sosirii lui Moș Crăciun",
+    "titleNearYou": "📍 Sosirea lui Moș Crăciun Lângă Tine",
+    "locationError": "Nu am putut obține locația ta",
+    "tryAgain": "🔄 Încearcă Din Nou",
+    "findingLocation": "Se caută locația ta...",
+    "closestStop": "Cea Mai Apropiată Oprire",
+    "kmAway": "km distanță",
+    "santaVisited": "✓ Moș Crăciun a trecut!",
+    "alreadyDelivered": "Moș Crăciun a livrat deja cadourile lângă tine! 🎁",
+    "santaOnWay": "🛷 Moș Crăciun este pe drum!",
+    "arrivingIn": "Sosește în aproximativ",
+    "hr": "oră",
+    "min": "min",
+    "sec": "sec",
+    "scheduledArrival": "🗓️ Sosire Programată",
+    "thatsIn": "Adică în"
+  },
+  "complete": {
+    "title": "🎉 Misiune Îndeplinită! 🎉",
+    "message": "Moș Crăciun a livrat cu succes cadouri tuturor copiilor din lume și acum se odihnește la Polul Nord!",
+    "presentsDelivered": "Cadouri Livrate",
+    "citiesVisited": "Orașe Vizitate",
+    "footer": "🎄 Crăciun Fericit! Ne vedem anul viitor! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Ieși din Modul Demo",
+    "tryDemo": "🎬 Încearcă Modul Demo",
+    "journeyProgress": "Progresul Călătoriei",
+    "hint": "Trage glisorul pentru a vedea cum Moș Crăciun călătorește în jurul lumii!"
+  },
+  "loading": "Se încarcă locația lui Moș Crăciun...",
+  "footer": {
+    "madeWith": "🎄 Făcut cu ❤️ pentru Crăciun 🎄",
+    "note": "Moș Crăciun pleacă la miezul nopții (UTC+12) pe 24 decembrie și călătorește 24 de ore"
+  },
+  "errors": {
+    "permissionDenied": "Permisiune locație refuzată. Te rugăm să activezi accesul la locație.",
+    "positionUnavailable": "Informațiile despre locație nu sunt disponibile.",
+    "timeout": "Cererea de locație a expirat.",
+    "unknown": "A apărut o eroare necunoscută."
+  }
+}

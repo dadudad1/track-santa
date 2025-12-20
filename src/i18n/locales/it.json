@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Segui Babbo Natale in Diretta - Tracker in Tempo Reale 2025",
+    "description": "Segui Babbo Natale in diretta la Vigilia di Natale! Scopri dove si trova Babbo Natale ora e quando arriverà vicino a te."
+  },
+  "header": {
+    "title": "Segui Babbo Natale",
+    "subtitle": "Segui il viaggio magico di Babbo Natale intorno al mondo"
+  },
+  "countdown": {
+    "title": "Babbo Natale Parte Tra",
+    "days": "Giorni",
+    "hours": "Ore",
+    "minutes": "Minuti",
+    "seconds": "Secondi",
+    "message": "🎄 Babbo Natale sta preparando la sua slitta al Polo Nord! 🎄"
+  },
+  "map": {
+    "delivered": "Consegnato!",
+    "comingSoon": "In arrivo...",
+    "yourLocation": "La Tua Posizione",
+    "santaOnWay": "Babbo Natale è in arrivo!",
+    "santaHere": "Babbo Natale è qui!",
+    "presentsDelivered": "regali consegnati",
+    "legend": {
+      "visited": "Visitato",
+      "upcoming": "Prossimo",
+      "santa": "Babbo Natale",
+      "you": "Tu"
+    }
+  },
+  "status": {
+    "liveTracking": "TRACCIAMENTO LIVE",
+    "title": "🎅 Stato Attuale di Babbo Natale",
+    "currentLocation": "Posizione Attuale",
+    "presentsDelivered": "Regali Consegnati",
+    "citiesVisited": "Città Visitate",
+    "nextStop": "Prossima Fermata",
+    "journeyProgress": "Progresso del Viaggio",
+    "northPole": "Polo Nord",
+    "latitude": "Latitudine",
+    "longitude": "Longitudine"
+  },
+  "arrival": {
+    "title": "📍 Orario di Arrivo di Babbo Natale",
+    "titleNearYou": "📍 Arrivo di Babbo Natale Vicino a Te",
+    "locationError": "Impossibile ottenere la tua posizione",
+    "tryAgain": "🔄 Riprova",
+    "findingLocation": "Ricerca della tua posizione...",
+    "closestStop": "Fermata Più Vicina",
+    "kmAway": "km di distanza",
+    "santaVisited": "✓ Babbo Natale è passato!",
+    "alreadyDelivered": "Babbo Natale ha già consegnato i regali vicino a te! 🎁",
+    "santaOnWay": "🛷 Babbo Natale è in arrivo!",
+    "arrivingIn": "Arriverà tra circa",
+    "hr": "ore",
+    "min": "min",
+    "sec": "sec",
+    "scheduledArrival": "🗓️ Arrivo Programmato",
+    "thatsIn": "Cioè tra"
+  },
+  "complete": {
+    "title": "🎉 Missione Compiuta! 🎉",
+    "message": "Babbo Natale ha consegnato con successo i regali a tutti i bambini del mondo e ora si sta riposando al Polo Nord!",
+    "presentsDelivered": "Regali Consegnati",
+    "citiesVisited": "Città Visitate",
+    "footer": "🎄 Buon Natale! Ci vediamo l'anno prossimo! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Esci dalla Modalità Demo",
+    "tryDemo": "🎬 Prova la Modalità Demo",
+    "journeyProgress": "Progresso del Viaggio",
+    "hint": "Trascina il cursore per vedere Babbo Natale viaggiare intorno al mondo!"
+  },
+  "loading": "Caricamento della posizione di Babbo Natale...",
+  "footer": {
+    "madeWith": "🎄 Fatto con ❤️ per Natale 🎄",
+    "note": "Babbo Natale parte a mezzanotte (UTC+12) il 24 dicembre e viaggia per 24 ore"
+  },
+  "errors": {
+    "permissionDenied": "Permesso di localizzazione negato. Per favore abilita l'accesso alla posizione.",
+    "positionUnavailable": "Le informazioni sulla posizione non sono disponibili.",
+    "timeout": "La richiesta di posizione è scaduta.",
+    "unknown": "Si è verificato un errore sconosciuto."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Suivre le Père Noël en Direct - Tracker en Temps Réel 2025",
+    "description": "Suivez le Père Noël en direct la veille de Noël ! Voyez où se trouve le Père Noël maintenant et quand il arrivera près de chez vous."
+  },
+  "header": {
+    "title": "Suivre le Père Noël",
+    "subtitle": "Suivez le voyage magique du Père Noël autour du monde"
+  },
+  "countdown": {
+    "title": "Le Père Noël Part Dans",
+    "days": "Jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "Secondes",
+    "message": "🎄 Le Père Noël prépare son traîneau au Pôle Nord ! 🎄"
+  },
+  "map": {
+    "delivered": "Livré !",
+    "comingSoon": "Bientôt...",
+    "yourLocation": "Votre Position",
+    "santaOnWay": "Le Père Noël est en route !",
+    "santaHere": "Le Père Noël est ici !",
+    "presentsDelivered": "cadeaux livrés",
+    "legend": {
+      "visited": "Visité",
+      "upcoming": "À venir",
+      "santa": "Père Noël",
+      "you": "Vous"
+    }
+  },
+  "status": {
+    "liveTracking": "SUIVI EN DIRECT",
+    "title": "🎅 Statut Actuel du Père Noël",
+    "currentLocation": "Position Actuelle",
+    "presentsDelivered": "Cadeaux Livrés",
+    "citiesVisited": "Villes Visitées",
+    "nextStop": "Prochain Arrêt",
+    "journeyProgress": "Progression du Voyage",
+    "northPole": "Pôle Nord",
+    "latitude": "Latitude",
+    "longitude": "Longitude"
+  },
+  "arrival": {
+    "title": "📍 Heure d'Arrivée du Père Noël",
+    "titleNearYou": "📍 Arrivée du Père Noël Près de Vous",
+    "locationError": "Impossible d'obtenir votre position",
+    "tryAgain": "🔄 Réessayer",
+    "findingLocation": "Recherche de votre position...",
+    "closestStop": "Arrêt le Plus Proche",
+    "kmAway": "km de distance",
+    "santaVisited": "✓ Le Père Noël est passé !",
+    "alreadyDelivered": "Le Père Noël a déjà livré les cadeaux près de chez vous ! 🎁",
+    "santaOnWay": "🛷 Le Père Noël est en route !",
+    "arrivingIn": "Arrivée dans environ",
+    "hr": "h",
+    "min": "min",
+    "sec": "sec",
+    "scheduledArrival": "🗓️ Arrivée Prévue",
+    "thatsIn": "C'est dans"
+  },
+  "complete": {
+    "title": "🎉 Mission Accomplie ! 🎉",
+    "message": "Le Père Noël a livré avec succès des cadeaux à tous les enfants du monde et se repose maintenant au Pôle Nord !",
+    "presentsDelivered": "Cadeaux Livrés",
+    "citiesVisited": "Villes Visitées",
+    "footer": "🎄 Joyeux Noël ! À l'année prochaine ! 🎄"
+  },
+  "demo": {
+    "exitDemo": "🔴 Quitter le Mode Démo",
+    "tryDemo": "🎬 Essayer le Mode Démo",
+    "journeyProgress": "Progression du Voyage",
+    "hint": "Faites glisser le curseur pour voir le Père Noël voyager autour du monde !"
+  },
+  "loading": "Chargement de la position du Père Noël...",
+  "footer": {
+    "madeWith": "🎄 Fait avec ❤️ pour Noël 🎄",
+    "note": "Le Père Noël part à minuit (UTC+12) le 24 décembre et voyage pendant 24 heures"
+  },
+  "errors": {
+    "permissionDenied": "Permission de localisation refusée. Veuillez activer l'accès à la localisation.",
+    "positionUnavailable": "Les informations de localisation ne sont pas disponibles.",
+    "timeout": "La demande de localisation a expiré.",
+    "unknown": "Une erreur inconnue s'est produite."
+  }
+}
