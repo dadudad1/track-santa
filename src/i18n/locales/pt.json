@@ -82,5 +82,10 @@
     "positionUnavailable": "As informações de localização não estão disponíveis.",
     "timeout": "O pedido de localização expirou.",
     "unknown": "Ocorreu um erro desconhecido."
+  },
+  "share": {
+    "button": "Partilhar",
+    "copied": "Link copiado!",
+    "copyLink": "Copiar link"
   }
 }

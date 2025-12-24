@@ -82,5 +82,10 @@
     "positionUnavailable": "Le informazioni sulla posizione non sono disponibili.",
     "timeout": "La richiesta di posizione è scaduta.",
     "unknown": "Si è verificato un errore sconosciuto."
+  },
+  "share": {
+    "button": "Condividi",
+    "copied": "Link copiato!",
+    "copyLink": "Copia link"
   }
 }

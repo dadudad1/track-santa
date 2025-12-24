@@ -82,5 +82,10 @@
     "positionUnavailable": "Location information is unavailable.",
     "timeout": "Location request timed out.",
     "unknown": "An unknown error occurred."
+  },
+  "share": {
+    "button": "Share",
+    "copied": "Link copied!",
+    "copyLink": "Copy Link"
   }
 }

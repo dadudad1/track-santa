@@ -82,5 +82,10 @@
     "positionUnavailable": "La información de ubicación no está disponible.",
     "timeout": "La solicitud de ubicación ha caducado.",
     "unknown": "Ha ocurrido un error desconocido."
+  },
+  "share": {
+    "button": "Compartir",
+    "copied": "¡Enlace copiado!",
+    "copyLink": "Copiar enlace"
   }
 }

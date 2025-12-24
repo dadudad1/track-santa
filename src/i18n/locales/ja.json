@@ -82,5 +82,10 @@
     "positionUnavailable": "位置情報が利用できません。",
     "timeout": "位置情報のリクエストがタイムアウトしました。",
     "unknown": "不明なエラーが発生しました。"
+  },
+  "share": {
+    "button": "共有",
+    "copied": "リンクをコピーしました！",
+    "copyLink": "リンクをコピー"
   }
 }

@@ -82,5 +82,10 @@
     "positionUnavailable": "Informațiile despre locație nu sunt disponibile.",
     "timeout": "Cererea de locație a expirat.",
     "unknown": "A apărut o eroare necunoscută."
+  },
+  "share": {
+    "button": "Distribuie",
+    "copied": "Link copiat!",
+    "copyLink": "Copiază Link"
   }
 }

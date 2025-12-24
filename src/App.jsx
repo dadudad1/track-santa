@@ -475,6 +475,102 @@ function ArrivalEstimate({ arrivalEstimate, locationError, onRetry }) {
   );
 }
 
+function ShareButton() {
+  const { t } = useTranslation();
+  const [showMenu, setShowMenu] = useState(false);
+
+  const shareUrl = 'https://track-santa.com';
+  const shareTitle = 'Track Santa Live - Follow Santa\'s Journey!';
+  const shareText = 'Track Santa Claus live on Christmas Eve! 🎅🎄';
+
+  const handleShare = async () => {
+    // Try native share first (mobile)
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: shareTitle,
+          text: shareText,
+          url: shareUrl,
+        });
+        return;
+      } catch (err) {
+        if (err.name !== 'AbortError') {
+          console.log('Share failed, showing fallback menu');
+        } else {
+          return; // User cancelled
+        }
+      }
+    }
+    // Fallback to menu
+    setShowMenu(!showMenu);
+  };
+
+  const shareLinks = [
+    {
+      name: 'WhatsApp',
+      icon: '💬',
+      url: `https://wa.me/?text=${encodeURIComponent(shareText + ' ' + shareUrl)}`,
+    },
+    {
+      name: 'Facebook',
+      icon: '📘',
+      url: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`,
+    },
+    {
+      name: 'Twitter',
+      icon: '🐦',
+      url: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`,
+    },
+    {
+      name: 'Email',
+      icon: '📧',
+      url: `mailto:?subject=${encodeURIComponent(shareTitle)}&body=${encodeURIComponent(shareText + '\n\n' + shareUrl)}`,
+    },
+  ];
+
+  const copyToClipboard = async () => {
+    try {
+      await navigator.clipboard.writeText(shareUrl);
+      setShowMenu(false);
+      alert(t('share.copied') || 'Link copied!');
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  };
+
+  return (
+    <div className="share-container">
+      <button className="share-btn" onClick={handleShare} aria-label="Share">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+          <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/>
+        </svg>
+        <span>{t('share.button') || 'Share'}</span>
+      </button>
+      {showMenu && (
+        <div className="share-menu">
+          {shareLinks.map((link) => (
+            <a
+              key={link.name}
+              href={link.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="share-option"
+              onClick={() => setShowMenu(false)}
+            >
+              <span className="share-icon">{link.icon}</span>
+              <span>{link.name}</span>
+            </a>
+          ))}
+          <button className="share-option" onClick={copyToClipboard}>
+            <span className="share-icon">📋</span>
+            <span>{t('share.copyLink') || 'Copy Link'}</span>
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function JourneyComplete() {
   const { t } = useTranslation();
   return (
@@ -718,6 +814,21 @@ export default function App() {
       </main>
 
       <footer className="footer">
+        <div className="footer-social">
+          <a 
+            href="https://www.instagram.com/innoviale/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="social-link instagram"
+            aria-label="Follow us on Instagram"
+          >
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+              <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+            </svg>
+            <span>@innoviale</span>
+          </a>
+          <ShareButton />
+        </div>
         <p>{t('footer.madeWith')}</p>
         <p className="footer-note">
           {t('footer.note')}

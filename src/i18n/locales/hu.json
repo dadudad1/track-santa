@@ -82,5 +82,10 @@
     "positionUnavailable": "A helyadatok nem elérhetőek.",
     "timeout": "A helymeghatározási kérés lejárt.",
     "unknown": "Ismeretlen hiba történt."
+  },
+  "share": {
+    "button": "Megosztás",
+    "copied": "Link másolva!",
+    "copyLink": "Link másolása"
   }
 }
